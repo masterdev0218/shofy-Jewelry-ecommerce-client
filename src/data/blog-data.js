@@ -1,4 +1,25 @@
-
+// electronic
+import blog_1 from "@assets/img/blog/blog-1.jpg";
+import blog_2 from "@assets/img/blog/blog-2.jpg";
+import blog_3 from "@assets/img/blog/blog-3.jpg";
+// fashion
+import blog_4 from '@assets/img/blog/2/blog-1.jpg';
+import blog_5 from '@assets/img/blog/2/blog-2.jpg';
+import blog_6 from '@assets/img/blog/2/blog-3.jpg';
+// blog postbox 
+import blog_post_1 from '@assets/img/blog/blog-big-3.jpg';
+import blog_post_2 from '@assets/img/blog/blog-big-2.jpg';
+import blog_post_3 from '@assets/img/blog/blog-big-4.jpg';
+import blog_post_4 from '@assets/img/blog/blog-big-5.jpg';
+import blog_post_5 from '@assets/img/blog/blog-big-6.jpg';
+// blog grid 
+import blog_grid_1 from '@assets/img/blog/grid/blog-grid-1.jpg';
+import blog_grid_2 from '@assets/img/blog/grid/blog-grid-2.jpg';
+import blog_grid_3 from '@assets/img/blog/grid/blog-grid-3.jpg';
+import blog_grid_4 from '@assets/img/blog/grid/blog-grid-4.jpg';
+import blog_grid_5 from '@assets/img/blog/grid/blog-grid-5.jpg';
+import blog_grid_6 from '@assets/img/blog/grid/blog-grid-6.jpg';
+import blog_grid_7 from '@assets/img/blog/grid/blog-grid-7.jpg';
 import blog_grid_8 from '@assets/img/blog/grid/blog-grid-8.jpg';
 // list img 
 import list_img_1 from '@assets/img/blog/grid/blog-grid-1.jpg';
